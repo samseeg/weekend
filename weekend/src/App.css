@@ -1,0 +1,25 @@
+.main_wrapper {
+  
+}
+
+.cover {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.66);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.main_background {
+  position: fixed;
+  height: 100%;
+  display: block;
+  margin: auto;
+}
+
+.add_book {
+
+  position: relative;
+  z-index: 5;
+}
